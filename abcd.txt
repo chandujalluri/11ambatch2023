@@ -40,7 +40,4 @@ pwd				: print working directory
 this is new code
 written by raham
 hii 
-hello namaste
-aadhab
-this is chandu
-hasbckjscjk
+hello 
